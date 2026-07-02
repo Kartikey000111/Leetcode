@@ -24,4 +24,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
