@@ -30,6 +30,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
+| [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
 |  |
@@ -76,4 +78,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
