@@ -32,6 +32,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -85,6 +86,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Greedy
 |  |
