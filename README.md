@@ -100,4 +100,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
