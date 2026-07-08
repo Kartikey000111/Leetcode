@@ -40,6 +40,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikey000111/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -106,5 +107,6 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikey000111/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
