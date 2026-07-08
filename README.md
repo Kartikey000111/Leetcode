@@ -6,6 +6,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -70,6 +71,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
