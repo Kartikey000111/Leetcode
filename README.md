@@ -13,6 +13,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Kartikey000111/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikey000111/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -46,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0015-3sum](https://github.com/Kartikey000111/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikey000111/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikey000111/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
@@ -78,6 +80,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikey000111/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
