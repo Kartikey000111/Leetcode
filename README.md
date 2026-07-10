@@ -18,6 +18,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikey000111/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -81,10 +84,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikey000111/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -110,11 +115,13 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0135-candy](https://github.com/Kartikey000111/Leetcode/tree/master/0135-candy) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kartikey000111/Leetcode/tree/master/0015-3sum) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -127,4 +134,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
