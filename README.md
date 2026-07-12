@@ -17,6 +17,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -25,6 +26,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
@@ -130,6 +132,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0015-3sum](https://github.com/Kartikey000111/Leetcode/tree/master/0015-3sum) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
