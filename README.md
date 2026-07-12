@@ -35,6 +35,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Kartikey000111/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
