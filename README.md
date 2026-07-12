@@ -64,6 +64,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -121,12 +123,14 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Kartikey000111/Leetcode/tree/master/0135-candy) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
