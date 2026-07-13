@@ -190,4 +190,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kartikey000111/Leetcode/tree/master/0076-minimum-window-substring) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Kartikey000111/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
