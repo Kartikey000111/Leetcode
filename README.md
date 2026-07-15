@@ -177,10 +177,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -209,4 +211,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
