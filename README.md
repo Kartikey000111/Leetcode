@@ -57,6 +57,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kartikey000111/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -207,4 +208,5 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
