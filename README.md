@@ -30,6 +30,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kartikey000111/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -165,6 +168,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -206,6 +210,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,6 +224,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
