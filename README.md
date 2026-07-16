@@ -21,6 +21,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0189-rotate-array](https://github.com/Kartikey000111/Leetcode/tree/master/0189-rotate-array) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -135,6 +136,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
