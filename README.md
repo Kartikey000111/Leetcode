@@ -27,6 +27,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -224,6 +225,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
+| [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
