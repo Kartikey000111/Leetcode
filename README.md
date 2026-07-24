@@ -263,4 +263,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Kartikey000111/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
