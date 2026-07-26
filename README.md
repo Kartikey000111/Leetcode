@@ -21,6 +21,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Kartikey000111/Leetcode/tree/master/0189-rotate-array) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
@@ -66,6 +67,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0202-happy-number](https://github.com/Kartikey000111/Leetcode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -177,6 +179,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0015-3sum](https://github.com/Kartikey000111/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kartikey000111/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
