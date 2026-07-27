@@ -220,11 +220,13 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -261,10 +263,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Design
 |  |
 | ------- |
