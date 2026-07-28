@@ -110,6 +110,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -198,12 +199,14 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
