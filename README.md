@@ -35,6 +35,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -107,6 +108,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Kartikey000111/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -222,6 +224,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
