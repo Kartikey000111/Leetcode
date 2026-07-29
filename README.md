@@ -34,6 +34,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0704-binary-search](https://github.com/Kartikey000111/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -182,6 +183,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Kartikey000111/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -219,6 +221,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0414-third-maximum-number](https://github.com/Kartikey000111/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -228,6 +231,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -317,10 +321,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -338,4 +344,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
