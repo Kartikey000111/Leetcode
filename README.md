@@ -87,6 +87,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Kartikey000111/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartikey000111/Leetcode/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +209,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Kartikey000111/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartikey000111/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
