@@ -85,6 +85,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0189-rotate-array](https://github.com/Kartikey000111/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kartikey000111/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0021-merge-two-sorted-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Kartikey000111/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Greedy
@@ -257,6 +259,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kartikey000111/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Kartikey000111/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Kartikey000111/Leetcode/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
