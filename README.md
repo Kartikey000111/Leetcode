@@ -125,6 +125,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartikey000111/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -142,6 +143,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -169,6 +171,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -239,6 +242,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
