@@ -50,6 +50,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kartikey000111/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartikey000111/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartikey000111/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +148,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -421,4 +423,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
