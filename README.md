@@ -75,6 +75,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartikey000111/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
@@ -151,6 +152,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -343,6 +345,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0076-minimum-window-substring](https://github.com/Kartikey000111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
