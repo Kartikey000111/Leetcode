@@ -10,6 +10,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0018-4sum](https://github.com/Kartikey000111/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Kartikey000111/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
@@ -131,6 +132,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0015-3sum](https://github.com/Kartikey000111/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kartikey000111/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikey000111/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kartikey000111/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -170,11 +172,13 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Counting
 |  |
@@ -185,6 +189,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Kartikey000111/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Kartikey000111/Leetcode/tree/master/0115-distinct-subsequences) |
