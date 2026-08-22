@@ -253,6 +253,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kartikey000111/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
@@ -312,6 +313,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikey000111/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kartikey000111/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Kartikey000111/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kartikey000111/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
