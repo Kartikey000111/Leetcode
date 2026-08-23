@@ -117,6 +117,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -162,6 +163,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,6 +275,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Kartikey000111/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikey000111/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -447,6 +450,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
