@@ -427,6 +427,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Kartikey000111/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Kartikey000111/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Quickselect
 |  |
