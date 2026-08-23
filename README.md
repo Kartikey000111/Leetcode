@@ -28,6 +28,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kartikey000111/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -96,6 +97,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -200,6 +202,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
@@ -232,6 +235,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -239,6 +243,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -344,12 +349,14 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -487,4 +494,12 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
