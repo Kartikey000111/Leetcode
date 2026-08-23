@@ -197,6 +197,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0087-scramble-string](https://github.com/Kartikey000111/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Kartikey000111/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kartikey000111/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -342,6 +343,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -396,11 +398,13 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Design
 |  |
 | ------- |
@@ -478,4 +482,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
