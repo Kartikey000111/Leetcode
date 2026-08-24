@@ -51,6 +51,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1386-cinema-seat-allocation](https://github.com/Kartikey000111/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kartikey000111/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -119,6 +120,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
@@ -210,6 +212,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -373,6 +376,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -465,17 +469,20 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
