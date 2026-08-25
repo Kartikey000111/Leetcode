@@ -15,6 +15,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0059-spiral-matrix-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kartikey000111/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -104,6 +105,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -234,6 +236,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0035-search-insert-position](https://github.com/Kartikey000111/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kartikey000111/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
