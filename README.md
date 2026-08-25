@@ -111,6 +111,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Kartikey000111/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kartikey000111/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartikey000111/Leetcode/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Kartikey000111/Leetcode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/Kartikey000111/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Kartikey000111/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kartikey000111/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -511,6 +513,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kartikey000111/Leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## DP on Trees
 |  |
