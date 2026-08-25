@@ -164,6 +164,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kartikey000111/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kartikey000111/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Kartikey000111/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Kartikey000111/Leetcode/tree/master/0076-minimum-window-substring) |
