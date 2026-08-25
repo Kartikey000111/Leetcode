@@ -117,6 +117,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0050-powx-n](https://github.com/Kartikey000111/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Kartikey000111/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kartikey000111/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kartikey000111/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kartikey000111/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartikey000111/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kartikey000111/Leetcode/tree/master/0202-happy-number) |
@@ -171,6 +172,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kartikey000111/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Kartikey000111/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Kartikey000111/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Kartikey000111/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Kartikey000111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Kartikey000111/Leetcode/tree/master/0087-scramble-string) |
@@ -358,6 +360,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kartikey000111/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kartikey000111/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kartikey000111/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Kartikey000111/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -400,6 +403,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Kartikey000111/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Kartikey000111/Leetcode/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kartikey000111/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
