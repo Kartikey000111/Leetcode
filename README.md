@@ -94,6 +94,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kartikey000111/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kartikey000111/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -213,6 +215,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +318,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -424,6 +428,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Kartikey000111/Leetcode/tree/master/1291-sequential-digits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
