@@ -2,15 +2,15 @@ class Solution {
 
     public String lexPalindromicPermutation(String s, String target) {
         int n = s.length();
-       
         if (n == 1) {
             return s.compareTo(target) > 0 ? s : "";
         }
-
         int[] cnt = new int[26];
         for (char c : s.toCharArray()) {
             cnt[c - 'a']++;
         }
+
+        
         String oddChar = "";
         for (int i = 0; i < 26; i++) {
             if (cnt[i] % 2 == 1) {
@@ -19,12 +19,15 @@ class Solution {
                 }
                 oddChar = String.valueOf((char) ('a' + i));
             }
-            cnt[i] /= 2; 
+            cnt[i] /= 2;
         }
 
         StringBuilder prefix = new StringBuilder();
+
+
         for (int i = 0; i < n / 2; i++) {
             boolean found = false;
+           
             for (int j = 0; j < 26; j++) {
                 if (cnt[j] == 0) {
                     continue;
@@ -44,7 +47,7 @@ class Solution {
                     found = true;
                     break;
                 } else {
-                    cnt[j]++; 
+                    cnt[j]++;
                 }
             }
             if (!found) {
