@@ -188,6 +188,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0389-find-the-difference](https://github.com/Kartikey000111/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0940-distinct-subsequences-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartikey000111/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -237,6 +238,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey000111/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
