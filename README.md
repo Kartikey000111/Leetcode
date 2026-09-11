@@ -67,6 +67,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kartikey000111/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -94,6 +95,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartikey000111/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kartikey000111/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kartikey000111/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -310,6 +312,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0326-power-of-three](https://github.com/Kartikey000111/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartikey000111/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -441,6 +444,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | ------- |
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Kartikey000111/Leetcode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
