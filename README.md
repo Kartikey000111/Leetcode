@@ -137,6 +137,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kartikey000111/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Kartikey000111/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Kartikey000111/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
@@ -570,4 +571,8 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kartikey000111/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
