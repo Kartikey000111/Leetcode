@@ -140,6 +140,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0836-rectangle-overlap](https://github.com/Kartikey000111/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartikey000111/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
@@ -251,6 +252,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0940-distinct-subsequences-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartikey000111/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartikey000111/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartikey000111/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kartikey000111/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -429,6 +431,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0724-find-pivot-index](https://github.com/Kartikey000111/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartikey000111/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -562,6 +565,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kartikey000111/Leetcode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartikey000111/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## DP on Trees
 |  |
