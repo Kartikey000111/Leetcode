@@ -56,6 +56,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartikey000111/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartikey000111/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Kartikey000111/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Kartikey000111/Leetcode/tree/master/2029-stone-game-ix) |
@@ -97,6 +98,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartikey000111/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartikey000111/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartikey000111/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartikey000111/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -287,6 +289,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartikey000111/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartikey000111/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartikey000111/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartikey000111/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartikey000111/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -444,6 +447,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartikey000111/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartikey000111/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Kartikey000111/Leetcode/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -464,6 +468,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0076-minimum-window-substring](https://github.com/Kartikey000111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartikey000111/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartikey000111/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartikey000111/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartikey000111/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
