@@ -93,6 +93,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0389-find-the-difference](https://github.com/Kartikey000111/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartikey000111/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Kartikey000111/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +115,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0037-sudoku-solver](https://github.com/Kartikey000111/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Kartikey000111/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0052-n-queens-ii) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -209,6 +211,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0409-longest-palindrome](https://github.com/Kartikey000111/Leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartikey000111/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/Kartikey000111/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartikey000111/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartikey000111/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Kartikey000111/Leetcode/tree/master/1927-sum-game) |
@@ -231,6 +234,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0042-trapping-rain-water](https://github.com/Kartikey000111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kartikey000111/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Kartikey000111/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -375,6 +379,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0912-sort-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kartikey000111/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kartikey000111/Leetcode/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartikey000111/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikey000111/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -434,6 +439,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0100-same-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kartikey000111/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kartikey000111/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Kartikey000111/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kartikey000111/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
