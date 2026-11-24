@@ -82,6 +82,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kartikey000111/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kartikey000111/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartikey000111/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kartikey000111/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -191,6 +192,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kartikey000111/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kartikey000111/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kartikey000111/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -572,6 +574,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartikey000111/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartikey000111/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikey000111/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kartikey000111/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kartikey000111/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
@@ -579,6 +582,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [0204-count-primes](https://github.com/Kartikey000111/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Kartikey000111/Leetcode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kartikey000111/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kartikey000111/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartikey000111/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartikey000111/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -590,6 +594,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikey000111/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kartikey000111/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kartikey000111/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartikey000111/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
