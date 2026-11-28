@@ -103,6 +103,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3934-smallest-unique-subarray](https://github.com/Kartikey000111/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kartikey000111/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kartikey000111/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -405,6 +406,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [1882-process-tasks-using-servers](https://github.com/Kartikey000111/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartikey000111/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/Kartikey000111/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -452,6 +454,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kartikey000111/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kartikey000111/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kartikey000111/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -486,6 +489,7 @@ This repository contains my Java solutions to LeetCode problems, including optim
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kartikey000111/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kartikey000111/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Kartikey000111/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kartikey000111/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting Sort
 |  |
 | ------- |
